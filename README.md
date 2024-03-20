@@ -40,3 +40,7 @@ In the "Exams" folder, you will find the course **Exams**.
 
 - [Moeein Aali](https://github.com/moeeinaali)
 
+## Notes
+
+Content of this repository is not directly copied, it has been adapted with additional notes for better understanding.
+
