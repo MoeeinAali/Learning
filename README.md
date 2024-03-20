@@ -3,9 +3,9 @@ This repository provides a curated collection of notebooks and learning resource
 
 ## Table of Contents
 
+- [Syllabus](#Syllabus)
 - [Lectures](#slides)
 - [Notebooks](#notebook)
-- [Syllabus](#syllabus)
 - [Assignments](#assignments)
 - [Exams](#exams)
 - [Maintainer](#maintainer)
