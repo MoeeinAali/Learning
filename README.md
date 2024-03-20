@@ -3,12 +3,23 @@ This repository provides a curated collection of notebooks and learning resource
 
 ## Table of Contents
 
-- [Lectures](./slides)
-- [Notebooks](./notebook)
-- [Assignments](./assignments)
-- [Exams](./exams)
-- [Maintainer](./maintainer)
+- [Lectures](#slides)
+- [Notebooks](#notebook)
+- [Syllabus](#syllabus)
+- [Assignments](#assignments)
+- [Exams](#exams)
+- [Maintainer](#maintainer)
 <hr>
+
+## Syllabus
+- **Titr**
+    - subTitr
+    - subTitr
+
+
+- **Titr**
+  - subTitr
+  - subTitr
 
 ## Lectures
 
