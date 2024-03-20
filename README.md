@@ -9,7 +9,6 @@ This repository provides a curated collection of notebooks and learning resource
 - [Assignments](#assignments)
 - [Exams](#exams)
 - [Maintainer](#maintainer)
-<hr>
 
 ## Syllabus
 - **Titr**
